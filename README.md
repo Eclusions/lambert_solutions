@@ -6,8 +6,8 @@ Lambert-Solutions is an open source library of solutions to Lambert's Problem. I
 Dependencies
 ------------
 
-- MatLab: No external dependencies are MatLab toolboxes are required for any presented algorithms.
-- C++   : C++ requires the use of the 'boost' library available at: https://boostorg.jfrog.io/artifactory/main/release/1.78.0/source/
+- MatLab: No external dependencies or MatLab toolboxes are required for any presented algorithms.
+- C++   : Requires the use of the 'boost' library available at: https://boostorg.jfrog.io/artifactory/main/release/1.78.0/source/
 
 Limitations
 -----------
