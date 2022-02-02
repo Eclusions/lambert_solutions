@@ -17,7 +17,7 @@ Limitations
 Installation
 ------------
 
-There is no installation required beyond a robust C++ IDE and the MatLab program. For MatLab, go to https://www.mathworks.com/mwaccount/ to purchase a license and download the software if you don't currently have one. I recommend Visual Studio Code for PC or Xcode for MacOS for a decent C++ compiler. All files provided in the git can be opened and run automatically (provided all necessary requirements have been met for each compiler).
+There is no installation required beyond a robust C++ IDE and the MatLab program. For MatLab, go to https://www.mathworks.com/ to purchase a license and download the software if you don't currently have one. I recommend [Visual Studio Code](https://code.visualstudio.com) for PC or [Xcode](https://developer.apple.com/xcode/) for MacOS for a decent C++ compiler. All files provided in the git can be opened and run automatically (provided all necessary requirements have been met for each compiler).
 
 License
 -------
