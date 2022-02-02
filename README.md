@@ -1,7 +1,7 @@
 Lambert-Solutions
 =================
 
-Lambert-Solutions is an open source library of solutions to Lambert's Problem. It is developed for the purpose of providing otherwise unavailable (whether through free scientific literature or code itself) algorithms to be used for any arbitrary purpose related to solving Lambert's problem. The library contains a compendium of well-known solutions -- as well as my own solution -- writeen in both MatLab and C++. 
+Lambert-Solutions is an open source library of solutions to Lambert's Problem. It is developed for the purpose of providing otherwise unavailable (whether through free scientific literature or code itself) algorithms to be used for any arbitrary purpose related to solving Lambert's problem. The library contains a compendium of well-known solutions -- as well as my own solution -- written in both MatLab and C++. 
 
 Included Solutions
 ------------------
