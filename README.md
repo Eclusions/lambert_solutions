@@ -28,6 +28,6 @@ All externally generated code is not subject to any license.
 Information and Contact
 -----------------------
 
-For more information, please contact oliverkwii (at) gmail (dot) com
+For more information, please contact oliverkwii@gmail.com
 
 All code is designed and implemented by Oliver Morrison. Code will be consistently updated and maintained by him. 
